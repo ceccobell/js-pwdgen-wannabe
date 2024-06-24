@@ -14,4 +14,4 @@ Buon lavoro!
 
 come faccio a inserire da tastiera i dati? --> uso la funzione prompt
 quindi creo 3 variabili una per il nome, una per il cognome e una per il colore che userò poi per stampare a schermo la password insicurissima
-ok ho inserito tutti i dati e ora come li stampo a schermo? --> uso la funzione document.getElementByID('id').innertext = password
+ok ho inserito tutti i dati e ora come li stampo a schermo? --> uso una funzione specifica per il linguaggio che sto usando per stampare a schermo
